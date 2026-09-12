@@ -6,7 +6,7 @@
     "type": "mojang"
   },
   "server": {
-    "ip": " r_x_a.aternos.me",
+    "ip": " r_x_a.aternos.me:37421",
     "port": 37421,
     "version": "1.21.11",
     "try-creative": false
